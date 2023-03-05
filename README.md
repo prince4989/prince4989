@@ -1,7 +1,7 @@
 <!-- # <p align="center">***OFFLINE, GRADUATION TIME. Wish Me LUCK***</p> 2022 12 17 -->
 <table><tr><td valign="top" width="70%">
 
-## <img width="25px" src="./devvsakib-hello.gif" alt="Hello Dev!"> I’m Sakib Ahmed
+## <img width="25px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Hello Dev!"> I’m Prince👑
 
 - 💻 I'm in my Prefinal year at VIT chennai
 - 🆕 Exploring new technologies and developing software solutions and quick hacks.
@@ -12,7 +12,9 @@
 ### 💬 Let's connect
 Feel free to contact me on these social networks.
 
- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devvsakib) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devvsakib/) [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@devvsakib)
+
+ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-k-25aa88222/) 
+
 
 ![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
 ![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square)
@@ -24,7 +26,7 @@ Feel free to contact me on these social networks.
 
 </td><td width="30%">
 
-<img src="./cat.gif" alt="coding cat"> 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" alt="coding cat"> 
 
 </tr></tr></table> 
 
