@@ -29,9 +29,6 @@
 
 </tr></tr></table> 
 
-
-
- -->
 <br>
 <br>
 
@@ -52,7 +49,7 @@
   <div>
     <p style="margin-bottom:0">
      
-  ![devvsakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince4989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+  ![prince4989's GitHub stats](https://github-readme-stats.vercel.app/api?username=prince4989&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
    
    </p>
   </div>
