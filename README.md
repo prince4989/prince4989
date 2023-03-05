@@ -15,7 +15,7 @@
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-k-25aa88222/) 
 
 
-![](https://komarev.com/ghpvc/?username=devvsakib&style=flat-square&color=yellow)
+![](https://komarev.com/ghpvc/?username=prince4989&style=flat-square&color=yellow)
 ![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square)
   
   </p>  
@@ -31,11 +31,6 @@
 
 
 
-
-<!-- 
-<a href="https://app.daily.dev/devvsakib">
-<img src="https://api.daily.dev/devcards/a709fe2da0104532bac3a421cdec7139.png?r=8lg" width="200" alt="Sakib Ahmed's Dev Card"/>
-</a>
  -->
 <br>
 <br>
@@ -49,12 +44,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,tailwind,materialui,redux,nextjs,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
 
 </td><td align="center" valign="top" width="25%">
- 
-### 🛠️ CMS Expert
- 
- <br> 
- 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,shopify,joomla&perline=10)](https://skillicons.dev)
+
  
 </td> 
   </tr>
