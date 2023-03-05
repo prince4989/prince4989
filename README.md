@@ -16,7 +16,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=prince4989&style=flat-square&color=yellow)
-![GitHub User's stars](https://img.shields.io/github/stars/devvsakib?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/prince4989?label=%E2%AD%90GitHub%20stars&style=flat-square)
   
   </p>  
   
@@ -43,11 +43,6 @@
  
 ![My Skills](https://skillicons.dev/icons?i=js,java,react,ts,html,css,tailwind,materialui,redux,nextjs,firebase,webpack,cpp,python,php,mongodb,mysql,django,vscode,bash,git,github&perline=15) 
 
-</td><td align="center" valign="top" width="25%">
-
- 
-</td> 
-  </tr>
  </table>
 
 <br>
